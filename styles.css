@@ -1,0 +1,31 @@
+#main_content_wrap {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+header {
+  background-color: dodgerblue;
+}
+#input_wrap {
+  display: flex;
+  flex-direction: column;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+#input_wrap input {
+  color: grey;
+}
+#default_language {
+  color: grey;
+}
+#first_name, #last_name, #email, #website,
+#language, #your_comment, #mobile, #home {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+footer {
+  background-color: lightblue;
+}
+#submit_button {
+  background-color: dodgerblue;
+}
